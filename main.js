@@ -10,6 +10,8 @@ class Avtorizasia {
     }
     startEngine() {
 
+
+        git remote add origin https://github.com/bekadgh/dz7dop.js.git
     }
 }
 class avto extends Avtorizasia{
